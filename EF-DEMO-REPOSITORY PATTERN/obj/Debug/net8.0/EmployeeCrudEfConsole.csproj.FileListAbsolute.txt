@@ -1,0 +1,207 @@
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\EmployeeCrudEfConsole.exe
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\EmployeeCrudEfConsole.deps.json
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\EmployeeCrudEfConsole.runtimeconfig.json
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\EmployeeCrudEfConsole.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\EmployeeCrudEfConsole.pdb
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.csproj.AssemblyReference.cache
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.AssemblyInfoInputs.cache
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.AssemblyInfo.cs
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.csproj.CoreCompileInputs.cache
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\Employee.96489BA9.Up2Date
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\refint\EmployeeCrudEfConsole.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.pdb
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\EmployeeCrudEfConsole.genruntimeconfig.cache
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\obj\Debug\net8.0\ref\EmployeeCrudEfConsole.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Profe\Downloads\EmployeeCrudEfConsole\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\EmployeeCrudEfConsole.exe
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\EmployeeCrudEfConsole.deps.json
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\EmployeeCrudEfConsole.runtimeconfig.json
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\EmployeeCrudEfConsole.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\EmployeeCrudEfConsole.pdb
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Humanizer.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\MySqlConnector.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.CodeDom.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.csproj.AssemblyReference.cache
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.AssemblyInfoInputs.cache
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.AssemblyInfo.cs
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.csproj.CoreCompileInputs.cache
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.sourcelink.json
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\Employee.96489BA9.Up2Date
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\refint\EmployeeCrudEfConsole.dll
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.pdb
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\EmployeeCrudEfConsole.genruntimeconfig.cache
+C:\DADES\EF-2526\EF-2526\EF-DEMO-REPOSITORY PATTERN\obj\Debug\net8.0\ref\EmployeeCrudEfConsole.dll
