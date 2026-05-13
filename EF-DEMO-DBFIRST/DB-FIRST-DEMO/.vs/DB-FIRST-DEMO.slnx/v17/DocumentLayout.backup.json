@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\jobgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\jobgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-dbfirst\\db-first-demo\\db-first-demo\\infrastructure\\data\\jobhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A72BC-E2AA-F43D-56B7-7E19AA78F19C}|DB-FIRST-DEMO\\DB-FIRST-DEMO.csproj|solutionrelative:db-first-demo\\infrastructure\\data\\jobhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Location.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Location.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Location.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:48.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobGrade.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobGrade.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobGrade.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobGrade.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Employee.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Employee.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Employee.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Employee.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:34.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Department.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Department.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Department.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Department.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:30.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Country.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Country.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Country.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:29.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobHistory.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobHistory.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobHistory.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\JobHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:40:26.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Job.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Job.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Job.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\Job.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:39:44.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\EmpresaContext.cs",
+              "RelativeDocumentMoniker": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\EmpresaContext.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-DBFIRST\\DB-FIRST-DEMO\\DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\EmpresaContext.cs",
+              "RelativeToolTip": "DB-FIRST-DEMO\\INFRASTRUCTURE\\DATA\\EmpresaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T16:39:34.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

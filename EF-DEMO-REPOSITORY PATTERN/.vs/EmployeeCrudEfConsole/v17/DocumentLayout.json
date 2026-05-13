@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-repository pattern\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|solutionrelative:infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-repository pattern\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-repository pattern\\application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|solutionrelative:application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-repository pattern\\application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|solutionrelative:application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|c:\\users\\usuari\\desktop\\exemple_practica_final\\ef\\ef-demo-repository pattern\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3B7A7E-226F-5608-9CB2-AEEE081C53A7}|EmployeeCrudEfConsole.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:04:09.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:04:06.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:03:56.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:03:45.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuari\\Desktop\\Exemple_practica_final\\EF\\EF-DEMO-REPOSITORY PATTERN\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:03:41.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
